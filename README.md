@@ -6,7 +6,7 @@ About this game
 How to play
 Use your arrow keys to move the tiles. Tiles with the same number merge into one when they touch. Add them up to reach 2048!
 
-Technologies: HTML, CSS (SASS), BEM, JS
+Technologies: JS, HTML, CSS (SASS)
 
 DESIGN:
 
